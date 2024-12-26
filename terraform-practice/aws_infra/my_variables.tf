@@ -3,7 +3,7 @@ variable "my-env" {
     type = string
 }
 
-variable"ami_id {
+variable "ami_id" {
     description =  "This is the AMI Id for EC2"
     type = string
 }
